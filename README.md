@@ -1,4 +1,4 @@
-## Hi! I am Michał - webdeveloper from Poland
+## Hi! I am Michał - a webdeveloper from Poland
 
 I've started programming since I was 15 years old. During this time I was learning a lot of languages such as Python, C++ or JS, but finally I ended as a webdeveloper. Now I mainly develop my skills in webdevelopment (JS, HTML, CSS, React, Vue, Node), because I really love it. Currently, I am working on my school projects (in JS and Kotlin) and also I am looking for an <b>internship</b> as a Junior Webdeveloper
 
