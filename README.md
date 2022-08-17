@@ -1,6 +1,6 @@
 ## Hi! I am Michał - an aspiring webdeveloper from Poland
 
-I've been programming since I was 15 years old. During this time I learned many languages such as Python, C++ and JS, but eventually I chose the path of webdeveloper. I learn languages and frameworks such as JS, HTML, CSS, React, React Native, Vue, Node, Typescript. I am currently looking for a job as a Junior Webdeveloper.
+I've been programming since I was 15 years old. During this time I learned many languages such as Python, C++ and JS, but eventually I chose the path of webdeveloper. I learn languages and frameworks such as JS, HTML, CSS, React, React Native, Vue, Node, Typescript. I am currently working as a Junior Frontend Web Developer.
 
 [![michalbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalbie)](https://github.com/anuraghazra/github-readme-stats)
 
